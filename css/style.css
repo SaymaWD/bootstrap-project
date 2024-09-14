@@ -300,6 +300,25 @@ blockquote .small::before, blockquote footer::before, blockquote small::before {
     clear: both;
 }
 
+/*Style for footer*/
+footer .top-footer{
+    background-color: #91c5a9;
+    padding-top: 60px;
+    padding-bottom: 40px;
+}
+footer .top-footer h5{
+    font-size: 1.9rem;
+    font-weight: 600;
+    color: #FFF;
+    margin-bottom: 20px;
+}
+
+footer .top-footer p{
+    color: #FFF;
+
+}
+
+
 
 
 
