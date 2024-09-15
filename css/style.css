@@ -318,13 +318,56 @@ footer .top-footer p{
 
 }
 
+footer .top-footer .snippet p{
+    font-size: 1.1rem;
+
+}
 footer .top-footer .tags{
     margin-top: 1.2rem;
     padding: 0 1rem;
-
+}
+footer .top-footer .tags .btn{
+    font-size: 1rem;
+    border-radius: 0;
+    margin-right: 1.5rem;
+    padding: 6px 11px;
+}
+footer .top-footer .tags .btn-primary{
+    background-color: #419568;
+    border-color: transparent;
 }
 
+footer .top-footer .contact-form .row{
+    margin-bottom: 1rem;
+}
 
+footer .top-footer .contact-form .row label{
+    color: #FFF;
+    font-size: 1.2rem;
+}
+
+footer .top-footer .tweeter p{
+    font-size: 1.1rem;
+}
+
+footer .bottom-footer{
+    background-color: #54865d;
+    padding-top: 35px;
+    padding-bottom: 25px;
+}
+
+footer .bottom-footer p{
+    color: #FFF;
+    font-size: 1.2rem;
+}
+
+footer .bottom-footer .nav .nav-link{
+    text-decoration: none;
+    display: inline-block;
+    color: #FFF;
+    font-size: 1rem;
+    margin-right: 1.5rem;
+}
 
 
 
